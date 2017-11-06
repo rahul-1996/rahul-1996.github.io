@@ -1,6 +1,6 @@
 # main text of home
 name: Rahul Mayuranath
-bio: Computer Science undergrad, caffeine addict and perrenial optimist. 
+bio: Computer Science undergrad @ PES University. 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -29,9 +29,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+disqus: 
+  shortname: 
+  categories: 
 
 # if you don't have any of social below, comment the line
 facebook: profile.php?id=1683031562
@@ -55,7 +55,7 @@ email: rahulmayuranath@gmail.com
 authors:
     rahulmayuranath:
         name: Rahul Mayuranath
-        bio: Computer Science undergrad, caffeine addict and perrenial optimist.
+        bio: Computer Science undergrad @ PES University.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: rahul96
@@ -74,7 +74,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
